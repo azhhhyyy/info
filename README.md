@@ -30,49 +30,6 @@ Currently:
 
 ---
 
-## Repository Structure
-
-```bash
-.
-├── resume/
-│   └── AzhaanShaikh_Resume.pdf
-│
-├── portfolio/
-│   ├── ux_case_studies/
-│   ├── product_work/
-│   ├── branding/
-│   ├── motion_design/
-│   └── experiments/
-│
-├── research/
-│   ├── legal_ux/
-│   ├── behavioral_research/
-│   ├── systems_design/
-│   └── civic_design/
-│
-├── projects/
-│   ├── devknight/
-│   ├── ai_products/
-│   ├── automation_systems/
-│   └── startup_concepts/
-│
-├── certifications/
-│
-├── documents/
-│   ├── applications/
-│   ├── statements/
-│   └── references/
-│
-├── assets/
-│   ├── images/
-│   ├── mockups/
-│   └── presentations/
-│
-└── README.md
-```
-
----
-
 ## Core Areas
 
 ### Product & UX Design
