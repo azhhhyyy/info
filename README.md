@@ -178,7 +178,7 @@ GPA: **9.48**
 
 ---
 
-## Resume[/AzhaanShaikh_Resume.pdf]
+## [Resume](/AzhaanShaikh_Resume.pdf)
 
 ```bash
 /AzhaanShaikh_Resume.pdf
